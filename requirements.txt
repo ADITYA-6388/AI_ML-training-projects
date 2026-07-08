@@ -1,6 +1,8 @@
 streamlit
-tensorflow
+tensorflow==2.15.0
 numpy
 Pillow
-matplotlib
 keras
+keras-preprocessing
+h5py
+protobuf<5
