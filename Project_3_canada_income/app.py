@@ -18,7 +18,7 @@ from sklearn import linear_model
 """#Loading the dataset"""
 
 # Load the dataset
-df = pd.read_csv('/content/sample_data/canada_per_capita_income.csv')
+df = pd.read_csv('canada_per_capita_income.csv')
 
 # Let's look at the first few rows to understand the structure
 print(df.head())
