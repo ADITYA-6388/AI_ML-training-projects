@@ -318,13 +318,3 @@ st.markdown("---")
 st.markdown("""
 <div class="footer">
 
-### 👨‍💻 Developer
-
-**Abhay Kumar Gupta**
-
-🔗 <a href="https://github.com/Abhay-cody" target="_blank">GitHub</a>
-
-🔗 <a href="https://www.linkedin.com/in/abhay-kumar-gupta-104a18397" target="_blank">LinkedIn</a>
-
-</div>
-""", unsafe_allow_html=True)
