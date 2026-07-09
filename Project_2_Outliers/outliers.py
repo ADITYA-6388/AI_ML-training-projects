@@ -155,16 +155,11 @@ if uploaded_file is not None:
 
 st.markdown("---")
 
-st.markdown("## 👨‍💻 Developed by Abhay Kumar Gupta")
+st.markdown("## 👨‍💻 Developed by ADITYA PANDEY")
 
 st.markdown(
 """
 ### 🌐 Connect with Me
 
 🔗 **GitHub:**  
-https://github.com/Abhay-cody
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/abhay-kumar-gupta-104a18397
-"""
-)
+https://github.com/ADITYA-6388
