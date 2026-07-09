@@ -159,7 +159,7 @@ st.markdown("## 👨‍💻 Developed by ADITYA PANDEY")
 
 st.markdown(
 """
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 🔗 **GitHub:**  
 https://github.com/ADITYA-6388
