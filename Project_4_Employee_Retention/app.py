@@ -309,11 +309,3 @@ else:
         st.error("⚠ Employee is likely to leave the company.")
     else:
         st.success("✅ Employee is likely to stay in the company.")
-
-# ---------------------------
-# Footer
-# ---------------------------
-st.markdown("---")
-
-st.markdown("""
-<div class="footer">
