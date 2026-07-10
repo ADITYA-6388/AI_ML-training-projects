@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+faiss-cpu
+beautifulsoup4
+tiktoken
+openai
+google-generativeai
+pypdf
+lxml
