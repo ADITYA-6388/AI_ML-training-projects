@@ -1,12 +1,5 @@
 streamlit
-langchain
-langchain-community
-langchain-openai
-langchain-google-genai
-faiss-cpu
-beautifulsoup4
-tiktoken
+google-genai
 openai
-google-generativeai
-pypdf
-lxml
+beautifulsoup4
+scikit-learn
