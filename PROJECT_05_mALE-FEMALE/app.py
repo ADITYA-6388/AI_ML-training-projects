@@ -58,21 +58,3 @@ if uploaded_file is not None:
 
     st.subheader("Prediction")
     st.success(classes[prediction])
-
-# About the developer
-st.markdown("---")
-st.markdown(
-    """
-<div style="text-align:center;">
-    <h3>Connect with Me</h3>
-    <a href="https://github.com/Abhay-cody" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Abhay--cody-black?style=for-the-badge&logo=github">
-    </a>
-    <br><br>
-    <a href="https://www.linkedin.com/in/abhay-kumar-gupta-104a18397" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Kumar%20Gupta-blue?style=for-the-badge&logo=linkedin">
-    </a>
-</div>
-""",
-    unsafe_allow_html=True,
-)
