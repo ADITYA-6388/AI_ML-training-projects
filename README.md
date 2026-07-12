@@ -11,6 +11,7 @@ https://aiml-training-projects-hehzx6rjdr5v6yb8czmoxt.streamlit.app/
 
 Project-05 :-
 
+https://project-6-kmeans-clustering-fzpj9in2okaqkurymekoja.streamlit.app/
 
 Project_06 :-
 https://aiml-training-projects-kmeans.streamlit.app/
