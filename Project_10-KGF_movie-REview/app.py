@@ -190,11 +190,3 @@ with right:
             st.json(result)
 
 st.divider()
-
-st.markdown(
-"""
-<center>
-
-### ❤️ Made with Streamlit | Hugging Face | Transformers
-
-</center>
