@@ -198,8 +198,3 @@ st.markdown(
 ### ❤️ Made with Streamlit | Hugging Face | Transformers
 
 </center>
-""",
-unsafe_allow_html=True
-)
-"""
-)
